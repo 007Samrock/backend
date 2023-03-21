@@ -6,4 +6,7 @@ export default {
   PASSWORD: 'UWcRUXJsDdUWmbKGJz',
   ATLAS_URI:
     'mongodb+srv://abdulsamad:3B7HSOSrebPdSJUo@cluster0.dgztrkv.mongodb.net/?retryWrites=true&w=majority',
+  
 };
+
+// https://full-stack-project-lckw.onrender.com
